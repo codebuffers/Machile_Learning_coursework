@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 20 09:58:14 2023
-
-@author: Iskooo
-"""
 
 import pandas as pd
 import numpy as np
